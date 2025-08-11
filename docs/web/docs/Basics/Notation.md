@@ -8,7 +8,7 @@ described.
 
 ## Command Line
 
-If you encounter something like this:
+If you encounter something like this:netconvert --visum=MyVisumNet.inp --output-file=MySUMONet.net.xml
 
 ```
 netconvert --visum=MyVisumNet.inp --output-file=MySUMONet.net.xml
